@@ -1,0 +1,22 @@
+:root {
+    --main-color-text: #050038;
+    --main-color-a: #4262FF;
+    --main-color-text-60: #05003899;
+    --main-color-white-60: #FFFFFF99;
+    --main-color-hover: #3852d4;
+
+}
+
+body {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
